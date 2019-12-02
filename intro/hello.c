@@ -1,7 +1,5 @@
 
-#include <stdio.h>  /* for convenience */
-#include <stdlib.h> /* for convenience */
-#include <unistd.h> /* for convenience */
+#include "apue.h"
 
 int
 main(void)
