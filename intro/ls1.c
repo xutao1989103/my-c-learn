@@ -1,4 +1,6 @@
-#include "apue.h"
+#include <stdio.h>  /* for convenience */
+#include <stdlib.h> /* for convenience */
+#include <unistd.h> /* for convenience */
 #include <dirent.h>
 
 int main(int argc, char *argv[])

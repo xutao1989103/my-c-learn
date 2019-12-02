@@ -1,4 +1,6 @@
-#include "apue.h"
+#include <stdio.h>  /* for convenience */
+#include <stdlib.h> /* for convenience */
+#include <unistd.h> /* for convenience */
 
 int main(void)
 {
