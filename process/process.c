@@ -16,3 +16,4 @@ int create_process(char *program, char **arg_list)
         execvp(program, arg_list);
         abort();
     }
+}
